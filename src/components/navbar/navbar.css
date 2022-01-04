@@ -35,7 +35,7 @@
 
 .gpt3__navbar-links_container p,
 .gpt3__navbar-sign p,
-.gpt3__navbar-sign-menu_container p {
+.gpt3__navbar-menu_container p {
     color: #fff;
     font-family: var(--font-family);
     font-weight: 500;
@@ -48,7 +48,7 @@
 }
 
 .gpt3__navbar-sign button,
-.gpt3__navbar-sign-menu_container button{
+.gpt3__navbar-menu_container button{
     padding: 0.5rem 1rem;
     color: #fff;
     background: #FF4820;
@@ -65,8 +65,7 @@
 .gpt3__navbar-menu {
     margin-left:  1rem;
 
-    display: none;
-    position:relative;
+    position: relative;
 }
 
 .gpt3__navbar-menu svg {
